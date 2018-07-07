@@ -1,0 +1,26 @@
+body {
+    background: #f1f1f1;
+    padding: 4em;
+    font-family: 'Montserrat';
+}
+
+a {
+    text-decoration: none;
+    margin-left: 15px;
+    color: rgb(15, 129, 223);
+}
+
+ul {
+    list-style-type: none;
+    background: #fff;
+    border-radius: 8px;
+    padding: 1em 2em 2em 2em;
+}
+svg {
+    top: 15px;
+    position:relative;
+}
+span {
+    margin-top: -40px;
+    display:inline-block;
+}
